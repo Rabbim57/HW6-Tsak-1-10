@@ -52,5 +52,15 @@ public class Main {
                 System.out.println(numberOneTable + "*" + numberTwoTable + "=" + (numberOneTable * numberTwoTable));
         }
 
+        System.out.println();
+        // Task 10
+        System.out.println("Task 10");
+
+        for ( int i = 0; i<= 10; i ++ ){
+            System.out.println("2 * " + i + " = " + (2 * 1));
+        }
+
+
+
     }
 }
